@@ -1,0 +1,13 @@
+D:\testint\consoleapp\testConsole\testConsole\bin\Debug\netcoreapp3.1\testConsole.exe
+D:\testint\consoleapp\testConsole\testConsole\bin\Debug\netcoreapp3.1\testConsole.deps.json
+D:\testint\consoleapp\testConsole\testConsole\bin\Debug\netcoreapp3.1\testConsole.runtimeconfig.json
+D:\testint\consoleapp\testConsole\testConsole\bin\Debug\netcoreapp3.1\testConsole.runtimeconfig.dev.json
+D:\testint\consoleapp\testConsole\testConsole\bin\Debug\netcoreapp3.1\testConsole.dll
+D:\testint\consoleapp\testConsole\testConsole\bin\Debug\netcoreapp3.1\testConsole.pdb
+D:\testint\consoleapp\testConsole\testConsole\obj\Debug\netcoreapp3.1\testConsole.csproj.AssemblyReference.cache
+D:\testint\consoleapp\testConsole\testConsole\obj\Debug\netcoreapp3.1\testConsole.AssemblyInfoInputs.cache
+D:\testint\consoleapp\testConsole\testConsole\obj\Debug\netcoreapp3.1\testConsole.AssemblyInfo.cs
+D:\testint\consoleapp\testConsole\testConsole\obj\Debug\netcoreapp3.1\testConsole.csproj.CoreCompileInputs.cache
+D:\testint\consoleapp\testConsole\testConsole\obj\Debug\netcoreapp3.1\testConsole.dll
+D:\testint\consoleapp\testConsole\testConsole\obj\Debug\netcoreapp3.1\testConsole.pdb
+D:\testint\consoleapp\testConsole\testConsole\obj\Debug\netcoreapp3.1\testConsole.genruntimeconfig.cache
